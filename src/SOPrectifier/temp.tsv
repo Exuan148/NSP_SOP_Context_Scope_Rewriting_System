@@ -1,0 +1,31 @@
+Quality	#1 ID	#2 ID	#1 String	#2 String
+0	0	0	I've never see a diamond in the flesh, I cut my teeth on wedding rings in the movies.	I've never see a diamond in the flesh, I cut my teeth on wedding rings in the movies.
+0	0	1	I've never see a diamond in the flesh, I cut my teeth on wedding rings in the movies.	And I'm not proud of my address, in the torn up town, no post code envy.
+0	0	2	I've never see a diamond in the flesh, I cut my teeth on wedding rings in the movies.	But every songs like gold teeth, bald goons, trashing in the hotel room.
+0	0	3	I've never see a diamond in the flesh, I cut my teeth on wedding rings in the movies.	We don't care, we're driving Cadillac in our dream.
+0	0	4	I've never see a diamond in the flesh, I cut my teeth on wedding rings in the movies.	You'll never be royal.
+0	0	E	I've never see a diamond in the flesh, I cut my teeth on wedding rings in the movies.	<EOS>
+0	1	0	And I'm not proud of my address, in the torn up town, no post code envy.	I've never see a diamond in the flesh, I cut my teeth on wedding rings in the movies.
+0	1	1	And I'm not proud of my address, in the torn up town, no post code envy.	And I'm not proud of my address, in the torn up town, no post code envy.
+0	1	2	And I'm not proud of my address, in the torn up town, no post code envy.	But every songs like gold teeth, bald goons, trashing in the hotel room.
+0	1	3	And I'm not proud of my address, in the torn up town, no post code envy.	We don't care, we're driving Cadillac in our dream.
+0	1	4	And I'm not proud of my address, in the torn up town, no post code envy.	You'll never be royal.
+0	1	E	And I'm not proud of my address, in the torn up town, no post code envy.	<EOS>
+0	2	0	But every songs like gold teeth, bald goons, trashing in the hotel room.	I've never see a diamond in the flesh, I cut my teeth on wedding rings in the movies.
+0	2	1	But every songs like gold teeth, bald goons, trashing in the hotel room.	And I'm not proud of my address, in the torn up town, no post code envy.
+0	2	2	But every songs like gold teeth, bald goons, trashing in the hotel room.	But every songs like gold teeth, bald goons, trashing in the hotel room.
+0	2	3	But every songs like gold teeth, bald goons, trashing in the hotel room.	We don't care, we're driving Cadillac in our dream.
+0	2	4	But every songs like gold teeth, bald goons, trashing in the hotel room.	You'll never be royal.
+0	2	E	But every songs like gold teeth, bald goons, trashing in the hotel room.	<EOS>
+0	3	0	We don't care, we're driving Cadillac in our dream.	I've never see a diamond in the flesh, I cut my teeth on wedding rings in the movies.
+0	3	1	We don't care, we're driving Cadillac in our dream.	And I'm not proud of my address, in the torn up town, no post code envy.
+0	3	2	We don't care, we're driving Cadillac in our dream.	But every songs like gold teeth, bald goons, trashing in the hotel room.
+0	3	3	We don't care, we're driving Cadillac in our dream.	We don't care, we're driving Cadillac in our dream.
+0	3	4	We don't care, we're driving Cadillac in our dream.	You'll never be royal.
+0	3	E	We don't care, we're driving Cadillac in our dream.	<EOS>
+0	4	0	You'll never be royal.	I've never see a diamond in the flesh, I cut my teeth on wedding rings in the movies.
+0	4	1	You'll never be royal.	And I'm not proud of my address, in the torn up town, no post code envy.
+0	4	2	You'll never be royal.	But every songs like gold teeth, bald goons, trashing in the hotel room.
+0	4	3	You'll never be royal.	We don't care, we're driving Cadillac in our dream.
+0	4	4	You'll never be royal.	You'll never be royal.
+0	4	E	You'll never be royal.	<EOS>

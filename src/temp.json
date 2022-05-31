@@ -1,0 +1,122 @@
+[
+ {
+  "id": "00",
+  "sentence1": "the disgraced espn sports reporter has been suspended for a week after footage emerged of her telling single mother-of-three gina michelle : ` i 'm on tv and you 're in a f -- ing trailer , honey . '",
+  "sentence2": "the disgraced espn sports reporter has been suspended for a week after footage emerged of her telling single mother-of-three gina michelle : ` i 'm on tv and you 're in a f -- ing trailer , honey . '",
+  "label": "0"
+ },
+ {
+  "id": "01",
+  "sentence1": "the disgraced espn sports reporter has been suspended for a week after footage emerged of her telling single mother-of-three gina michelle : ` i 'm on tv and you 're in a f -- ing trailer , honey . '",
+  "sentence2": "but just a month earlier she used similar language to berate an arkansas attorney and women 's rights campaigner on twitter .",
+  "label": "0"
+ },
+ {
+  "id": "02",
+  "sentence1": "the disgraced espn sports reporter has been suspended for a week after footage emerged of her telling single mother-of-three gina michelle : ` i 'm on tv and you 're in a f -- ing trailer , honey . '",
+  "sentence2": "sarah sparkman , who tweets with the handle @cupcakesarenice , remarked to her followers that she felt uneasy about the way female sports reporters are sexualized on screen .",
+  "label": "0"
+ },
+ {
+  "id": "03",
+  "sentence1": "the disgraced espn sports reporter has been suspended for a week after footage emerged of her telling single mother-of-three gina michelle : ` i 'm on tv and you 're in a f -- ing trailer , honey . '",
+  "sentence2": "twitter fight : sarah sparkman ( left ) , a lawyer from arkansas , tweeted about how female sports reporters are sexualized - and was met with a tirade of anger from britt mchenry ( right ) despite not tagging her in the tweet",
+  "label": "0"
+ },
+ {
+  "id": "03",
+  "sentence1": "the disgraced espn sports reporter has been suspended for a week after footage emerged of her telling single mother-of-three gina michelle : ` i 'm on tv and you 're in a f -- ing trailer , honey . '",
+  "sentence2": "[EOS]",
+  "label": "0"
+ },
+ {
+  "id": "10",
+  "sentence1": "but just a month earlier she used similar language to berate an arkansas attorney and women 's rights campaigner on twitter .",
+  "sentence2": "the disgraced espn sports reporter has been suspended for a week after footage emerged of her telling single mother-of-three gina michelle : ` i 'm on tv and you 're in a f -- ing trailer , honey . '",
+  "label": "0"
+ },
+ {
+  "id": "11",
+  "sentence1": "but just a month earlier she used similar language to berate an arkansas attorney and women 's rights campaigner on twitter .",
+  "sentence2": "but just a month earlier she used similar language to berate an arkansas attorney and women 's rights campaigner on twitter .",
+  "label": "0"
+ },
+ {
+  "id": "12",
+  "sentence1": "but just a month earlier she used similar language to berate an arkansas attorney and women 's rights campaigner on twitter .",
+  "sentence2": "sarah sparkman , who tweets with the handle @cupcakesarenice , remarked to her followers that she felt uneasy about the way female sports reporters are sexualized on screen .",
+  "label": "0"
+ },
+ {
+  "id": "13",
+  "sentence1": "but just a month earlier she used similar language to berate an arkansas attorney and women 's rights campaigner on twitter .",
+  "sentence2": "twitter fight : sarah sparkman ( left ) , a lawyer from arkansas , tweeted about how female sports reporters are sexualized - and was met with a tirade of anger from britt mchenry ( right ) despite not tagging her in the tweet",
+  "label": "0"
+ },
+ {
+  "id": "13",
+  "sentence1": "but just a month earlier she used similar language to berate an arkansas attorney and women 's rights campaigner on twitter .",
+  "sentence2": "[EOS]",
+  "label": "0"
+ },
+ {
+  "id": "20",
+  "sentence1": "sarah sparkman , who tweets with the handle @cupcakesarenice , remarked to her followers that she felt uneasy about the way female sports reporters are sexualized on screen .",
+  "sentence2": "the disgraced espn sports reporter has been suspended for a week after footage emerged of her telling single mother-of-three gina michelle : ` i 'm on tv and you 're in a f -- ing trailer , honey . '",
+  "label": "0"
+ },
+ {
+  "id": "21",
+  "sentence1": "sarah sparkman , who tweets with the handle @cupcakesarenice , remarked to her followers that she felt uneasy about the way female sports reporters are sexualized on screen .",
+  "sentence2": "but just a month earlier she used similar language to berate an arkansas attorney and women 's rights campaigner on twitter .",
+  "label": "0"
+ },
+ {
+  "id": "22",
+  "sentence1": "sarah sparkman , who tweets with the handle @cupcakesarenice , remarked to her followers that she felt uneasy about the way female sports reporters are sexualized on screen .",
+  "sentence2": "sarah sparkman , who tweets with the handle @cupcakesarenice , remarked to her followers that she felt uneasy about the way female sports reporters are sexualized on screen .",
+  "label": "0"
+ },
+ {
+  "id": "23",
+  "sentence1": "sarah sparkman , who tweets with the handle @cupcakesarenice , remarked to her followers that she felt uneasy about the way female sports reporters are sexualized on screen .",
+  "sentence2": "twitter fight : sarah sparkman ( left ) , a lawyer from arkansas , tweeted about how female sports reporters are sexualized - and was met with a tirade of anger from britt mchenry ( right ) despite not tagging her in the tweet",
+  "label": "0"
+ },
+ {
+  "id": "23",
+  "sentence1": "sarah sparkman , who tweets with the handle @cupcakesarenice , remarked to her followers that she felt uneasy about the way female sports reporters are sexualized on screen .",
+  "sentence2": "[EOS]",
+  "label": "0"
+ },
+ {
+  "id": "30",
+  "sentence1": "twitter fight : sarah sparkman ( left ) , a lawyer from arkansas , tweeted about how female sports reporters are sexualized - and was met with a tirade of anger from britt mchenry ( right ) despite not tagging her in the tweet",
+  "sentence2": "the disgraced espn sports reporter has been suspended for a week after footage emerged of her telling single mother-of-three gina michelle : ` i 'm on tv and you 're in a f -- ing trailer , honey . '",
+  "label": "0"
+ },
+ {
+  "id": "31",
+  "sentence1": "twitter fight : sarah sparkman ( left ) , a lawyer from arkansas , tweeted about how female sports reporters are sexualized - and was met with a tirade of anger from britt mchenry ( right ) despite not tagging her in the tweet",
+  "sentence2": "but just a month earlier she used similar language to berate an arkansas attorney and women 's rights campaigner on twitter .",
+  "label": "0"
+ },
+ {
+  "id": "32",
+  "sentence1": "twitter fight : sarah sparkman ( left ) , a lawyer from arkansas , tweeted about how female sports reporters are sexualized - and was met with a tirade of anger from britt mchenry ( right ) despite not tagging her in the tweet",
+  "sentence2": "sarah sparkman , who tweets with the handle @cupcakesarenice , remarked to her followers that she felt uneasy about the way female sports reporters are sexualized on screen .",
+  "label": "0"
+ },
+ {
+  "id": "33",
+  "sentence1": "twitter fight : sarah sparkman ( left ) , a lawyer from arkansas , tweeted about how female sports reporters are sexualized - and was met with a tirade of anger from britt mchenry ( right ) despite not tagging her in the tweet",
+  "sentence2": "twitter fight : sarah sparkman ( left ) , a lawyer from arkansas , tweeted about how female sports reporters are sexualized - and was met with a tirade of anger from britt mchenry ( right ) despite not tagging her in the tweet",
+  "label": "0"
+ },
+ {
+  "id": "33",
+  "sentence1": "twitter fight : sarah sparkman ( left ) , a lawyer from arkansas , tweeted about how female sports reporters are sexualized - and was met with a tirade of anger from britt mchenry ( right ) despite not tagging her in the tweet",
+  "sentence2": "[EOS]",
+  "label": "0"
+ }
+]

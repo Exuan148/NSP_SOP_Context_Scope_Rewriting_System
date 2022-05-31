@@ -1,0 +1,1202 @@
+[
+ {
+  "id": 0,
+  "sentence1": "16:01 est , 18 may 2013",
+  "sentence2": "i am a passenger in a car tailing another vehicle down a lane in rural hampshire .",
+  "label": "1"
+ },
+ {
+  "id": 1,
+  "sentence1": "as she was surrounded by police officers , droudis appeared impassive and handed her belongings to her brother , john aspros , whose hand she held during proceedings .",
+  "sentence2": "amirah droudis , 35 , arrived at downing centre local court in sydney on monday morning",
+  "label": "0"
+ },
+ {
+  "id": 2,
+  "sentence1": "there have been over 570 confirmed cases of mers , including 171 deaths , according to the world health organization .",
+  "sentence2": "many of the cases are in saudi arabia and the united arab emirates .",
+  "label": "1"
+ },
+ {
+  "id": 3,
+  "sentence1": "saddle herself last week , as she competed on her horse black tuxedo at the",
+  "sentence2": "tweseldown horse trials , and also rode to victory on silver lining at",
+  "label": "1"
+ },
+ {
+  "id": 4,
+  "sentence1": "\" i accept that raising these concerns immediately as i stepped off the track was wrong , \" pistorius said in a statement .",
+  "sentence2": "early monday , pistorius apologized for the timing of his comments but said that he believed \" there is an issue here . \"",
+  "label": "0"
+ },
+ {
+  "id": 5,
+  "sentence1": "many of those house of fraser-owned stores have closed in the past two decades to streamline the business , but the move has turned much-loved local landmarks into empty , crumbling buildings .",
+  "sentence2": "that move may have kept the company in business , but for many shoppers , goodwill was thrown away .",
+  "label": "1"
+ },
+ {
+  "id": 6,
+  "sentence1": "the justices would be asked to delay recognition of those same-sex marriages until the overall constitutional issue is fully decided by the high court , a process that may not happen for a year or more .",
+  "sentence2": "the same appeals court late last month ruled utah 's voter approved amendment 3 violated the equal protection rights of same-sex couples .",
+  "label": "1"
+ },
+ {
+  "id": 7,
+  "sentence1": "a spokesperson said : ` we often take the smooth , comfortable , sophistication of today 's modern shapewear for granted .",
+  "sentence2": "` however this archive shows the sacrifices that women have made in the past so that today 's generation can put their most natural looking , smoothest silhouette forward . '",
+  "label": "1"
+ },
+ {
+  "id": 8,
+  "sentence1": "a parody web series has attempted to answer the age-old question for visitors down under - how to talk australian ?",
+  "sentence2": "students at an indian call centre training college learn how to talk true-blue aussie - with a hilarious emphasis on expletives and put-downs - in the youtube comedy series .",
+  "label": "1"
+ },
+ {
+  "id": 9,
+  "sentence1": "but mostly it 's just the person that you 're sending it to , so it 's like a conversation . '",
+  "sentence2": "but snapchat is just to one person , unless they 're a jerk and they screenshot it and post it on facebook .",
+  "label": "0"
+ },
+ {
+  "id": 10,
+  "sentence1": "more than a thousand vehicles are being showcased at the ten-day-long \" auto china 2014 \" beijing international automotive exhibition .",
+  "sentence2": "( cnn ) -- despite the chinese leadership 's austerity measures and recent reports of weak profits from chinese car makers , the country 's biggest car show opened today to much buzz .",
+  "label": "0"
+ },
+ {
+  "id": 11,
+  "sentence1": "clarke : we 're not winners any more",
+  "sentence2": "he is reported to have had a 20-minute row with mr cameron , in which he warned his sacking would alienate traditional tory voters and be a ` smash in the teeth ' for 12million people in the countryside .",
+  "label": "1"
+ },
+ {
+  "id": 12,
+  "sentence1": "the white house said in 2012 that obama -- who as president , serves as the honorary national president of the boy scouts of america -- disagreed with the organization 's ban .",
+  "sentence2": "\" the scouts are a great institution that are promoting young people and exposing them to opportunities and leadership that will serve people for the rest of their lives , and i think nobody should be barred from that , \" he said .",
+  "label": "0"
+ },
+ {
+  "id": 13,
+  "sentence1": "among allen 's business interests are the professional sports teams he owns , the nfl 's seattle seahawks and the nba 's portland trail blazers .",
+  "sentence2": "he also is part owner of major league soccer 's seattle sounders fc .",
+  "label": "1"
+ },
+ {
+  "id": 14,
+  "sentence1": "for $ 10,000 per week , the summer house where hannah , marnie , jessa and shoshanna reunite for the first time in season three , can be yours",
+  "sentence2": "the episode sees marnie ( pictured ) go to painstaking detail to perfectly plan a grown-up weekend escape for the four characters",
+  "label": "1"
+ },
+ {
+  "id": 15,
+  "sentence1": "support for nigel farage 's ukip has soared by 13 points since 2012 , but backing for remaining in the eu has risen by 12 points , as david cameron prepares to renegotiate britain 's membership",
+  "sentence2": "the new ipsosmori survey shows how ukip 's growing popularity has coincided with increasing support for britain 's membership of the eu .",
+  "label": "1"
+ },
+ {
+  "id": 16,
+  "sentence1": "beckham began his professional career with 12 years at manchester united before his move to real madrid .",
+  "sentence2": "he left for the galaxy in 2007 .",
+  "label": "1"
+ },
+ {
+  "id": 17,
+  "sentence1": "you 'd have thought szczesny would show some degree of regret to his colleagues that night .",
+  "sentence2": "szczesny had just been sent off in the champions league last-16 first-leg clash against bayern munich , leaving his team-mates to play the remaining 53 minutes with 10 men against the reigning european champions .",
+  "label": "0"
+ },
+ {
+  "id": 18,
+  "sentence1": "` i was speaking to some people who",
+  "sentence2": "it was a fairly hazardous situation for avalanche .",
+  "label": "0"
+ },
+ {
+  "id": 19,
+  "sentence1": "` excessive force ' : henry davis , 52 , said in a lawsuit that he was arrested by ferguson in september 2009 for no reason , severely beaten in lock-up and then charged with ` property damage ' for bleeding on the uniforms of four officers",
+  "sentence2": "davis had protested his innocence , and said the cops realized their mistake at ferguson police station , recalling a booking officer saying : ` we have a problem . '",
+  "label": "1"
+ },
+ {
+  "id": 20,
+  "sentence1": "the 23-year-old ecuador international has signed a four-year contract after moving for an undisclosed fee , believed to be in the region of # 16 million ( $ 23 million ) .",
+  "sentence2": "ecuador winger valencia moves to manchester united as a replacement for real madrid-bound cristiano ronaldo .",
+  "label": "0"
+ },
+ {
+  "id": 21,
+  "sentence1": "\" it spots patterns of crowd behavior that indicate potential danger such as high densities , pressure , turbulence , stop-and-go waves and other anomalies , \" fiona sterns , crowdvision 's co-founder , told the bbc .",
+  "sentence2": "back in a central control room , police and military personnel monitor the live data feeds provided by the software , which lets them see in real-time where the crowds are thickest .",
+  "label": "1"
+ },
+ {
+  "id": 22,
+  "sentence1": "the mp , who is married to peta , 54 , with whom he has a 20-year-old daughter , philippa , said last night : ` this is really unfortunate , these were personal cards paid for by myself and i will personally refund any costs incurred due to this . '",
+  "sentence2": "a lib dem spokesman said mr thornton was ` very embarrassed ' that some stamps were missing and was investigating the error .",
+  "label": "0"
+ },
+ {
+  "id": 23,
+  "sentence1": "\" this is probably a depressingly familiar story for most guatemalans .",
+  "sentence2": "... the single dominant theme of guatemalan politics is citizen insecurity , \" brands said .",
+  "label": "1"
+ },
+ {
+  "id": 24,
+  "sentence1": "i want to give it my best and help the team as much as i can .",
+  "sentence2": "` it was an easy decision for me to sign with liverpool as i had a very good chat with the manager , which clearly shows that he and the club wanted to sign me . '",
+  "label": "0"
+ },
+ {
+  "id": 25,
+  "sentence1": "they simply capitulated here and their captain should consider his position but , india being india , they will probably just shrug their shoulders and move on to one-day cricket .",
+  "sentence2": "that 's what has made their players millionaires .",
+  "label": "1"
+ },
+ {
+  "id": 26,
+  "sentence1": "similarities between the sunday night fire and the 2006 blaze led to the investigation of a man identified only as mr. chae , said kim young-su , chief of police of the namdaemun police station .",
+  "sentence2": "chae had served time in prison for the palace fire .",
+  "label": "1"
+ },
+ {
+  "id": 27,
+  "sentence1": "the findings come in the wake of a health scare for the queen , which saw her rushed to hospital with a bout of gastroenteritis .",
+  "sentence2": "in line to the throne .",
+  "label": "0"
+ },
+ {
+  "id": 28,
+  "sentence1": "the photographs released friday , meanwhile , show the presidential aircraft making a steep bank , seemingly well beyond the 30-degree maximum for boeing 747s carrying passengers , according to one airline pilot consulted by cnn .",
+  "sentence2": "and \" how dumb was this ! \"",
+  "label": "0"
+ },
+ {
+  "id": 29,
+  "sentence1": "we extend our heartfelt sympathy to the family during this time of tragic loss . '",
+  "sentence2": "a statement from the school district said : ` the faculty and staff of mid-del schools is mourning the loss of one its students today , katherine cizek , del city high school sophomore .",
+  "label": "0"
+ },
+ {
+  "id": 30,
+  "sentence1": "detectives opened their luggage to find the cocaine hidden in in small plastic bags within the lining of their cases .",
+  "sentence2": "last night the unnamed women were being held in a nearby jail ahead of an appearance before an investigating judge .",
+  "label": "1"
+ },
+ {
+  "id": 31,
+  "sentence1": "the girl , who returned to campus in the early hours of friday morning , was described as being in shock and ` incoherent ' in the wake of the incident .",
+  "sentence2": "the student was admitted to hospital for treatment on thursday night and is now said to be ` out of danger ' .",
+  "label": "0"
+ },
+ {
+  "id": 32,
+  "sentence1": "stuart gray 's side fashioned their first chance courtesy of a counter-attack in the 20th minute when jacques maghoma stole possession in the wigan half and delivered a teasing low cross .",
+  "sentence2": "the owls have won only once on their travels since their promising start to the season in september and set their stall out to attack on the break .",
+  "label": "0"
+ },
+ {
+  "id": 33,
+  "sentence1": "the winner is announced friday , but the names of the other nominees wo n't be revealed for another 50 years .",
+  "sentence2": "** this year , a record 241 candidates were nominated .",
+  "label": "0"
+ },
+ {
+  "id": 34,
+  "sentence1": "he called a friend to discuss sharing a taxi from peterborough station to school .",
+  "sentence2": "describing the incident , train driver john ashby said he sounded the horn as a warning when he saw the young man close to the platform edge .",
+  "label": "1"
+ },
+ {
+  "id": 35,
+  "sentence1": "washington ( cnn ) -- u.s. border officers found a wire between two fences along the u.s.-mexican border that , when stretched taut , could have seriously harmed or even decapitated border patrol agents , congress was told wednesday .",
+  "sentence2": "the wire was about 4 feet high when pulled tight , or about neck level for an agent on an atv , officials say .",
+  "label": "1"
+ },
+ {
+  "id": 36,
+  "sentence1": "the flight landed without incident at oakland international airport around 9 a.m. wednesday .",
+  "sentence2": "no one was injured , officials said .",
+  "label": "1"
+ },
+ {
+  "id": 37,
+  "sentence1": "a neighbour who went to help the older boy said : ` he just kept saying , ` i think he has killed my mum and my baby sister ' . '",
+  "sentence2": "i said who has done this and he told me .",
+  "label": "1"
+ },
+ {
+  "id": 38,
+  "sentence1": "mr mercurio rushed to the scene where authorities had already taken charge of the day-old child who had his umbilical cord still attached .",
+  "sentence2": "i called 911 , but i do n't think they believed",
+  "label": "0"
+ },
+ {
+  "id": 39,
+  "sentence1": "the 70-year-old has also claimed people should be able to prefer being straight to being gay - like some people prefer earl grey to ordinary tea .",
+  "sentence2": "and in 2000 he said being gay is ` not worthy of valid equal respect ' .",
+  "label": "1"
+ },
+ {
+  "id": 40,
+  "sentence1": "a traveler who asked whether the sand in egypt would affect her asthma .",
+  "sentence2": "panicked callers regularly reporting australian travelers missing overseas , after not hearing from them within the first few hours of arriving in country .",
+  "label": "1"
+ },
+ {
+  "id": 41,
+  "sentence1": "the swiss said : ` i 'm happy to get through .",
+  "sentence2": "it was important to win that match again .",
+  "label": "1"
+ },
+ {
+  "id": 42,
+  "sentence1": "the irs inspector general investigated only similar communications from the agency 's cincinnati office",
+  "sentence2": "this letterhead from the irs headquarters in washington , dc , accompanied a probing letter directed at a tea party group .",
+  "label": "0"
+ },
+ {
+  "id": 43,
+  "sentence1": "` it 's important for me to articulate that now .",
+  "sentence2": "i get on with all dortmund players really well , especially kevin grosskreutz .",
+  "label": "1"
+ },
+ {
+  "id": 44,
+  "sentence1": "barry cockcroft , chief dental officer",
+  "sentence2": "for england and the government 's principal dental adviser , added : ` it",
+  "label": "1"
+ },
+ {
+  "id": 45,
+  "sentence1": "police say the believe he was under the influence of drugs and has been charged with five felonies .",
+  "sentence2": "after being stopped , deputies found an infant and a toddler in the vehicle , although they were not hurt .",
+  "label": "1"
+ },
+ {
+  "id": 46,
+  "sentence1": "the report , compiled by a pension firm and a research centre , is drawn from research which also showed britain lagging behind developing countries such as india and china .",
+  "sentence2": "planning ahead : just a fifth of people are meeting savings targets for their pension , a report found ( file photo )",
+  "label": "0"
+ },
+ {
+  "id": 47,
+  "sentence1": "the family of seven died after their minivan plummeted 59ft from the bronx river parkway .",
+  "sentence2": "police say mrs gonzalez was at the wheel of a white 2004 honda pilot when it vaulted off an overpass .",
+  "label": "1"
+ },
+ {
+  "id": 48,
+  "sentence1": "it put barca 11 points clear of second-placed defending champions real madrid with four games to play , meaning victory at third-placed atletico madrid next sunday will be enough to seal a 22nd domestic crown .",
+  "sentence2": "messi has now scored 60 goals this season , 46 of them in la liga -- where he has found the net in his past 21 appearances .",
+  "label": "1"
+ },
+ {
+  "id": 49,
+  "sentence1": "occasionally it is loaned to afc wimbledon , who are attempting to move back into merton .",
+  "sentence2": "wimbledon fans spilled onto the pitch after jack midson 's goal at mk dons back in 2012",
+  "label": "0"
+ },
+ {
+  "id": 50,
+  "sentence1": "in wasco , some 30 miles away , 1 local residents have reported sightings of clowns since october 1 .",
+  "sentence2": "props and costumes change routinely , leading some wasco residents to believe there is a menacing gang of bandits dressing up like the clowns from everyone 's nightmares . '",
+  "label": "1"
+ },
+ {
+  "id": 51,
+  "sentence1": "the majority of victims were small businesses , service stations , petrol stations and corner stores , who often have less-secure payment gateways .",
+  "sentence2": "the hackers profited by selling data to do \" card not present ' \" ( cnp ) transactions -- the use of account information without the physical card being involved -- or to create counterfeit credit cards .",
+  "label": "1"
+ },
+ {
+  "id": 52,
+  "sentence1": "australia are weeks away from games against the barbarians , wales , france , ireland and england , and 11 months before the world cup where they will be grouped with england and wales .",
+  "sentence2": "former south africa coach jake white and waratahs ' michael cheika are potential successors but pulver said : ` i do n't even know who can get on a plane on friday . '",
+  "label": "1"
+ },
+ {
+  "id": 53,
+  "sentence1": "to draw up a ` plan b ' , with only 35 per cent content for the first",
+  "sentence2": "alternatives are a separate scottish currency -- either pegged to the",
+  "label": "1"
+ },
+ {
+  "id": 54,
+  "sentence1": "in that interview , he appeared to suggest that bae may have done something to deserve his heavy sentence .",
+  "sentence2": "after his on-air rant drew criticism from bae 's family and others , rodman apologized , saying he 'd been drinking and was under stress .",
+  "label": "1"
+ },
+ {
+  "id": 55,
+  "sentence1": "43-year-old male driver of the mercedes was arrested on suspicion of",
+  "sentence2": "` following a roadside breath test , the",
+  "label": "0"
+ },
+ {
+  "id": 56,
+  "sentence1": "` this teacher has my support , ' said clark county school trustee linda young , the only black and minority school board member .",
+  "sentence2": "school : the incident happened on jan. 9 at the las vegas academy of the arts , pictured",
+  "label": "0"
+ },
+ {
+  "id": 57,
+  "sentence1": "as well as her involvement in the commercial campaign , the duchess has also registered five trademarks , including ` fergie 's farms ' .",
+  "sentence2": "now she has teamed up with mail-order specialist tristar products , which has previously marketed products with rod stewart 's ex-wife rachel hunter and the late comedienne joan rivers .",
+  "label": "0"
+ },
+ {
+  "id": 58,
+  "sentence1": "the grandfather-of-three has traded his renault clio for a # 40,000 jaguar xf , is set to visit center parcs this weekend with his wife linda and family and expects christmas to ` be a blinder this year ' .",
+  "sentence2": "celebration : john orchard , 60 , of long sutton , lincolnshire , pictured with his wife linda , had only been playing on the butlersbingo website for a few days before his win on a wheel of fortune-type of game",
+  "label": "1"
+ },
+ {
+  "id": 59,
+  "sentence1": "` we have increased the security and had an alarm fitted . '",
+  "sentence2": "yesterday the court heard how farrow told the victim of an earlier knife burglary : ` i 've killed people before ' .",
+  "label": "1"
+ },
+ {
+  "id": 60,
+  "sentence1": "they decided to make their own version with strangers in the street",
+  "sentence2": "when the creators of the italian version discovered ` those strangers were in fact actors playing a part for the cameras in a studio ' they said they felt ` cheated ' and decided to make their own version in italy .",
+  "label": "1"
+ },
+ {
+  "id": 61,
+  "sentence1": "giovanni trapattoni , who coached the italian national team for four years , said the latest twist represented \" devastating news . \"",
+  "sentence2": "trapattoni , who now coaches ireland , said : \" what could be the italian team 's reaction ?",
+  "label": "1"
+ },
+ {
+  "id": 62,
+  "sentence1": "despite hamilton , alonso and webber finishing on the podium last time out , all three drivers trail reigning world champion and current standings leader sebastian vettel .",
+  "sentence2": "it 's going to be fascinating to see which team holds the advantage next weekend . \"",
+  "label": "0"
+ },
+ {
+  "id": 63,
+  "sentence1": "` missing man ewan powell , aged 42 , of benson , oxfordshire and his daughter tanith powell , aged three , from worcestershire have both been found safe and well today in the didcot area .",
+  "sentence2": "` we would like to thank the public and the media for their assistance locating them . '",
+  "label": "1"
+ },
+ {
+  "id": 64,
+  "sentence1": "i 'm so grateful for the all the effort you have put in . '",
+  "sentence2": "over the radio , hamilton said : ` thank you so much for all the hard work back at the factory and here .",
+  "label": "0"
+ },
+ {
+  "id": 65,
+  "sentence1": "but that early vote cushion was n't just cosmetic .",
+  "sentence2": "they were n't entirely wrong ; a good chunk of those early democratic votes came from banking ballots from the president 's strongest supporters , base voters who would have shown up no matter what .",
+  "label": "0"
+ },
+ {
+  "id": 66,
+  "sentence1": "\" of course we are disappointed in what the ruling is -- that is to take the cross down , \" bruce bailey , president of the mount soledad memorial association told cnn affiliate kgtv .",
+  "sentence2": "but the cross may be able to stay if the case is appealed , the judge ordered .",
+  "label": "0"
+ },
+ {
+  "id": 67,
+  "sentence1": "the rocks used for the building 's exterior were said to be made of imitation shells , rather than stone , and had trees and shrubs growing from them as seen in classical chinese landscaping painting",
+  "sentence2": "neighbours complained the villa was a health and safety risk and were frightened it could collapse the building",
+  "label": "0"
+ },
+ {
+  "id": 68,
+  "sentence1": "stefanovic in the same blue cheap burberry suit with co-host lisa wilkinson and tim cahill",
+  "sentence2": "the veteran journalist posted a copy of the letter on social media to highlight the scrutiny she faced .",
+  "label": "0"
+ },
+ {
+  "id": 69,
+  "sentence1": "in a reference to so-called ` social engineering ' which has seen universities encouraged to accept lower grades from teenagers with deprived backgrounds , the commons adviser added : ` i wonder if , in support of widening access , we ought to consider young men with lower a-level grades than women . '",
+  "sentence2": "last summer data from ucas set alarm bells ringing about white schoolchildren , who are now less inclined to apply to university than any other ethnic group .",
+  "label": "1"
+ },
+ {
+  "id": 70,
+  "sentence1": "rosemary williams of ` my five wives ' on tlc says she was molested more than two decades ago by her father , lynn a. thompson and published her claims in a blog .",
+  "sentence2": "he is the leader of the one of largest organized polygamy groups in utah , the apostolic united brethren , or aub .",
+  "label": "1"
+ },
+ {
+  "id": 71,
+  "sentence1": "by that time , despite the fact that the half of the game was yet to be played , many commenters on twitter were jokingly wondering if notre dame would come out of the locker room for the second half .",
+  "sentence2": "the irish did , but it did not get much better for them .",
+  "label": "1"
+ },
+ {
+  "id": 72,
+  "sentence1": "\" in a world where everyone wants instant gratification , it is all too easy to abandon cases that are n't solved quickly , \" vancouver police deputy chief warren lemcke was quoted as saying in an ice statement .",
+  "sentence2": "\" we would n't let that happen to miss randhawa and her family , or any victim of a crime .",
+  "label": "1"
+ },
+ {
+  "id": 73,
+  "sentence1": "in it , the boy is shown with his head and arms stuck in an opening in the back of the chair .",
+  "sentence2": "the video was recorded last november and was released to a tv station in february .",
+  "label": "0"
+ },
+ {
+  "id": 74,
+  "sentence1": "` we are honored that michael is trusting us with his private journey in this moment that has not only made history but will shape it forever , ' oprah winfrey said in a statement .",
+  "sentence2": "the first-openly gay football player to be selected in the draft will be the focus of a new multi-part documentary series to air on oprah 's own network , produced by the same crew that filmed lindsay lohan 's reality show .",
+  "label": "0"
+ },
+ {
+  "id": 75,
+  "sentence1": "as confirmed by deadline , underwood is teaming up with entertainment moguls jerry bruckheimer , jonathan littman and ildy modrovich to executive produce a six-hour television series based on the song .",
+  "sentence2": "and it did n't take long for hollywood to catch on .",
+  "label": "0"
+ },
+ {
+  "id": 76,
+  "sentence1": "i 'd been asked to look at the house by relatives of the previous owner , who 'd died .",
+  "sentence2": "mr drake , 55 , said : ` it really was quite bizarre .",
+  "label": "0"
+ },
+ {
+  "id": 77,
+  "sentence1": "not for something so frivolous , ' the student 's father added .",
+  "sentence2": "he should n't have ever been suspended .",
+  "label": "0"
+ },
+ {
+  "id": 78,
+  "sentence1": "sweden 's official efforts to battle online piracy have been weak , the mpaa says .",
+  "sentence2": "internet piracy is growing at a faster rate in europe than anywhere else in the world , the mpaa says , because of increased broadband use , weak laws , and lenient public perceptions .",
+  "label": "0"
+ },
+ {
+  "id": 79,
+  "sentence1": "good luck in the finals ' , warne tweeted .",
+  "sentence2": "you should be better than that as aust of the year !!!",
+  "label": "0"
+ },
+ {
+  "id": 80,
+  "sentence1": "after the wedding at st anne 's church in tonna , the couple and their guests decamped to bar gallois in port talbot , where both staff and attendees were thrilled by the magical set-up .",
+  "sentence2": "feeling the force : a huge star wars robot created by mrs maclean-price for her nuptials",
+  "label": "0"
+ },
+ {
+  "id": 81,
+  "sentence1": "sickening : images purportedly taken in the central square of the extremists ' de facto capital raqqa show the battered and bloodstained body of an unnamed 17-year-old boy strapped to a cross",
+  "sentence2": "a handwritten placard hangs around the teenager 's neck , accusing him of ` apostasy ' - the abandonment of his religion - and says he had been crucified for three days after being caught receiving 500 turkish lira for every photograph he took of an islamic state military base .",
+  "label": "0"
+ },
+ {
+  "id": 82,
+  "sentence1": "me : \" i appreciate your honesty . \"",
+  "sentence2": "me : \" not really . \"",
+  "label": "0"
+ },
+ {
+  "id": 83,
+  "sentence1": "` i 've got a lot of time for the police and the work they do , but this time they really let melissa down . '",
+  "sentence2": "the police offered miss jones a # 60 fixed penalty but she refused to admit her guilt .",
+  "label": "1"
+ },
+ {
+  "id": 84,
+  "sentence1": "the region has long been a hotbed for armed anti-government activity , not to mention u.s. drone strikes targeting suspected terrorists .",
+  "sentence2": "the pakistani taliban claimed responsibility for the attack .",
+  "label": "0"
+ },
+ {
+  "id": 85,
+  "sentence1": "but i am not sad .",
+  "sentence2": "we will be victorious in this life and the afterlife . \"",
+  "label": "1"
+ },
+ {
+  "id": 86,
+  "sentence1": "beer wine and spirits ( bws ) is trialling the new policy in three northern territory stores - parap , palmerston and darwin airport - to try and control binge drinking",
+  "sentence2": "the bottle shop company has put up signs at the three stores saying the ban on cask wine was carried out to ` assist the community in minimising the alcohol-related harm ' .",
+  "label": "0"
+ },
+ {
+  "id": 87,
+  "sentence1": "\" it 's substantial , it 's a very educated portion of the population , and a very young part of the population . \"",
+  "sentence2": "many irish economists , including mcwilliams , are concerned a prolonged ` brain-drain ' could further slow the country 's financial growth .",
+  "label": "1"
+ },
+ {
+  "id": 88,
+  "sentence1": "the 23-year-old only came through the european tour qualifying school a month ago and became the first player since fred couples in 1995 to follow his maiden tour win - at the johannesburg open last week -- with another .",
+  "sentence2": "grace , a native south african himself , secured his second successive title on home soil after emerging triumphant on the first extra hole after a three-way tie for first .",
+  "label": "0"
+ },
+ {
+  "id": 89,
+  "sentence1": "however , s6 edge will have the ability to work in a left or right handed mode",
+  "sentence2": "` you will have an option to choose favourite contacts and an ability to assign specific colours to them , ' explained sammobile .",
+  "label": "1"
+ },
+ {
+  "id": 90,
+  "sentence1": "gen. fraser said the u.s. government 's joint task force in haiti is working in a , \" very concerted effort \" to put the medical facility together .",
+  "sentence2": "some patients discharged from the ship to continue care at home have no home to recover in , according to witnesses .",
+  "label": "0"
+ },
+ {
+  "id": 91,
+  "sentence1": "microsoft , which has been researching tv white spaces for 12 years , has so far deployed the technology in a number of locations -- from the united states and europe to emerging markets in southeast asia .",
+  "sentence2": "all potential users need is a device with wi-fi capability , such as a mobile phone , a pc or a tablet , that will connect to a wi-fi access point that , in turn , is connected to a white space base station .",
+  "label": "0"
+ },
+ {
+  "id": 92,
+  "sentence1": "the first ` big ' game of the season .",
+  "sentence2": "there was a question , nervously asked , that if swansea , leicester and mk dons could beat louis van gaal 's team then just what could the leaders of the premier league do here ?",
+  "label": "1"
+ },
+ {
+  "id": 93,
+  "sentence1": "` we seldom see crimes as completely inhumane as this , ' prosecutor c. ryan tennison said in court .",
+  "sentence2": "` this man raped the victim in her home in front of her loved one . '",
+  "label": "1"
+ },
+ {
+  "id": 94,
+  "sentence1": "the federal government considers marijuana a schedule i substance that has no medicinal uses and a high risk for abuse .",
+  "sentence2": "however , colorado and washington have legalised marijuana for adult recreational use , and 21 states have passed laws allowing its use as a treatment for certain medical conditions .",
+  "label": "1"
+ },
+ {
+  "id": 95,
+  "sentence1": "the structure , built in front of the city 's st. stephen 's basilica , used hundreds of thousands of blocks .",
+  "sentence2": "the budapest tower , topped by a rubik 's cube -- a hungarian invention -- was also built with the help of hungarian primary school children , according to local news websites .",
+  "label": "0"
+ },
+ {
+  "id": 96,
+  "sentence1": "` once there was a fight ,",
+  "sentence2": "muammar gaddafi the chance to succeed .",
+  "label": "0"
+ },
+ {
+  "id": 97,
+  "sentence1": "there are no updates on her condition .",
+  "sentence2": "scene : the alleged attack occurred at the 1800 block of copeland street in annapolis , about 4.30 am sunday",
+  "label": "1"
+ },
+ {
+  "id": 98,
+  "sentence1": "... this does n't represent the barclays that i know and i love . \"",
+  "sentence2": "\" this was wrong and i 'm not happy about it , but we put all the resources we could to make sure it was dealt with .",
+  "label": "0"
+ },
+ {
+  "id": 99,
+  "sentence1": "all the money from the til .",
+  "sentence2": "control : the clerk points hidden gun directly at the thief who has demanded",
+  "label": "0"
+ },
+ {
+  "id": 100,
+  "sentence1": "the floats were sold from december 2002 through june 2009 at retailers nationwide , including target , toys \" r \" us , wal-mart , dollar general , kmart , walgreens , ace hardware and bed , bath & beyond .",
+  "sentence2": "there have been 31 reports of float seats tearing , though no injuries have been reported , the commission said .",
+  "label": "0"
+ },
+ {
+  "id": 101,
+  "sentence1": "it will soon be too late for action to prevent the immense costs of doing nothing .",
+  "sentence2": "kerry said he and obama had no time for what he called the \" flat earth society . \"",
+  "label": "0"
+ },
+ {
+  "id": 102,
+  "sentence1": "\" of course we are not concerned , \" aliyev told cnn 's richard quest during an interview at the world economic forum in davos , switzerland .",
+  "sentence2": "davos , switzerland ( cnn ) -- azerbaijan 's president ilham aliyev has rejected suggestions that bp 's new alliance with rosneft , the kremlin-controlled oil company , will provide scope for russian interference in his country .",
+  "label": "0"
+ },
+ {
+  "id": 103,
+  "sentence1": "my heart is absolutely bleeding for derek johnson 's family , ' king added in the interview . '",
+  "sentence2": "i just want them to know i 'm sorry ' .",
+  "label": "1"
+ },
+ {
+  "id": 104,
+  "sentence1": "but remote vehicles will continue surveying the scene , she said .",
+  "sentence2": "\" we are at the ready to respond should something happen , \" she said .",
+  "label": "1"
+ },
+ {
+  "id": 105,
+  "sentence1": "for nikolsky , it signaled the end of four months of unrelenting pressure .",
+  "sentence2": "they left , and the ship and crew free to go .",
+  "label": "0"
+ },
+ {
+  "id": 106,
+  "sentence1": "features on smartphones , apple may find themselves in a rare situation",
+  "sentence2": "with maps being one of the most-used",
+  "label": "0"
+ },
+ {
+  "id": 107,
+  "sentence1": "grave fears : thousands have fled the syrian civil war , which now threatens to spread to turkey",
+  "sentence2": "fleeing their homes : syrian families , many wounded , travel on foot after crossing to turkey by boat on the orontes river of the turkish-syrian border",
+  "label": "0"
+ },
+ {
+  "id": 108,
+  "sentence1": "colin farrell confirms he 's joining ` true detective '",
+  "sentence2": "the network ( which , like cnn , is owned by time warner ) has remained tight-lipped about the rest of the casting -- or , for that matter , things like plot details .",
+  "label": "1"
+ },
+ {
+  "id": 109,
+  "sentence1": "` we will co-operate fully with the ongoing investigation . '",
+  "sentence2": "a review of practises in our call handling centre has since been carried out and changes have been implemented to improve the way information is handled and shared .",
+  "label": "0"
+ },
+ {
+  "id": 110,
+  "sentence1": "the reward for istomin is a match up against number five seed julien benneteau from france who defeated belgian steve darcis in three sets 3-6 6-1 6-2 .",
+  "sentence2": "from there , it was tough , \" roddick said , atpworldtour.com reported .",
+  "label": "0"
+ },
+ {
+  "id": 111,
+  "sentence1": "ray , who is married to actress emma stephens , said another key part of his diet success was taking forza t5 super strength fat burner supplements .",
+  "sentence2": "` you have to have a cheat day - i 'd never stick to this tough regime if i did n't have that . '",
+  "label": "0"
+ },
+ {
+  "id": 112,
+  "sentence1": "the discussions in recent months have centered on the possibility of tsarnaev pleading guilty and receiving a life sentence without parole , according to the officials .",
+  "sentence2": "13 things you should know about the trial",
+  "label": "1"
+ },
+ {
+  "id": 113,
+  "sentence1": "a man who shot four people near a greenville wal-mart in june picked out his victims because they were white , according to several indictments handed down against him .",
+  "sentence2": "lakim faust had more than 100 rounds of ammunition when he started shooting at people who were standing outside at a law firm and a shopping center in june , authorities said .",
+  "label": "1"
+ },
+ {
+  "id": 114,
+  "sentence1": "odegaard said it was ' a great feeling ' to play in front of a home crowd in a competitive international",
+  "sentence2": "i just try and enjoy it all . '",
+  "label": "0"
+ },
+ {
+  "id": 115,
+  "sentence1": "i have taken doughnuts to the cemetery every day since then . '",
+  "sentence2": "` the fortuneteller told me that was a mistake not to have paid tribute to her with an offering of food , and it was significant that she contacted me while i was cooking .",
+  "label": "0"
+ },
+ {
+  "id": 116,
+  "sentence1": "the planes appear to camouflage into the runways , and even the terminal buildings are a discreet silver colour .",
+  "sentence2": "while many of the airports are a wash of oranges , blacks and greens , london heathrow looks almost clinical with its solid white and grey hues .",
+  "label": "0"
+ },
+ {
+  "id": 117,
+  "sentence1": "i could n't stop crying when they first",
+  "sentence2": "five months on , ms holmes , from dilton marsh , wiltshire , has given birth to baby son ruben . '",
+  "label": "0"
+ },
+ {
+  "id": 118,
+  "sentence1": "common symptoms of carbon monoxide poisoning resemble other types of poisonings and infections , including symptoms such as headache , nausea , vomiting , dizziness , fatigue , and a feeling of weakness .",
+  "sentence2": "` then they run a tube from their exhaust underneath the van where there are vents and the fumes get through there . '",
+  "label": "0"
+ },
+ {
+  "id": 119,
+  "sentence1": "this horrific orgy of violence and torture was also be filmed on a mobile phone and later uploaded to youtube for the world to see .",
+  "sentence2": "it is known as ` necklacing ' , the appalling method of killing which involves putting a petrol-filled tyre around a victim 's neck and setting it ablaze , and this latest incident has sent shockwaves throughout nigeria and the wider world .",
+  "label": "1"
+ },
+ {
+  "id": 120,
+  "sentence1": "the conduct was recorded on three cameras the homeowner , alan kachalsky , had set up after he became suspicious about goings-on in his apartment while he was out .",
+  "sentence2": "mr kachalsky said that he would return home and blinds would be drawn that had not been , a window would be left open that he had left shut .",
+  "label": "1"
+ },
+ {
+  "id": 121,
+  "sentence1": "45,000 lbs ( 20,400 kg ) from durango , mexico , through el paso , texas , to a",
+  "sentence2": "96-count indictment accuses the gang of smuggling drugs weighing",
+  "label": "0"
+ },
+ {
+  "id": 122,
+  "sentence1": "lady gaga , whose real name is stefani joanne angelina germanotta , performed a rendition of the hills are alive and was joined on stage by julie andrews , who played maria von trapp in the 1965 film .",
+  "sentence2": "during last night 's show , scarlett johansson introduced lady gaga to the stage in a tribute to the sound of music .",
+  "label": "0"
+ },
+ {
+  "id": 123,
+  "sentence1": "it was on the afternoon of october 12 , 1940 , that the 60-year-old mix , was driving another of his cars , a 1937 cord 812 phaeton , on arizona state route 79 near florence .",
+  "sentence2": "married five times , his style would go on to define the hollywood western genre and influence future screen cowboy 's such as ronald reagan and john wayne .",
+  "label": "0"
+ },
+ {
+  "id": 124,
+  "sentence1": "hate preacher : cyriel verschaeve was a priest from flanders in belgium who in his political pamphlets likened jews to ` vermin ' and ` weeds ' that needed exterminating",
+  "sentence2": "mr van rompuy , who has been accused of being the ` human face ' of flemish extremists , said he included the poem on his website because it was a favourite of his mother-in-law .",
+  "label": "1"
+ },
+ {
+  "id": 125,
+  "sentence1": "lyudmila trofimova , with husband oleg trofimov , said baby aishat was the spitting image of her son",
+  "sentence2": "she added : ` right after the birth , i asked to see my daughter and knew immediately that something was wrong because she did not look like us . '",
+  "label": "1"
+ },
+ {
+  "id": 126,
+  "sentence1": "` we say the evidence points away rather than towards her being responsible , ' mr wright said . '",
+  "sentence2": "but he told jurors that they were not being asked to determine whether his client was a good mother but whether she dropped the television and if she did , was it behaviour which was ` truly , exceptionally bad ' rather than a mistake or a serious error of judgment .",
+  "label": "0"
+ },
+ {
+  "id": 127,
+  "sentence1": "but it 's up to us as women to decide what is it that we can push , and what it is that we can do and not do .",
+  "sentence2": "one , i think the united arab emirates , since inception ( it 's not from today but from the founder late sheikh zayed ) has always given equal opportunities for women .",
+  "label": "0"
+ },
+ {
+  "id": 128,
+  "sentence1": "` again , there are some details we",
+  "sentence2": "investigation : officers work on the case , following the incident which left residents terrified",
+  "label": "0"
+ },
+ {
+  "id": 129,
+  "sentence1": "southern ocean lodge is situated on one of south australia 's stunning retreats - kangaroo island .",
+  "sentence2": "it is australia 's third largest island , after tasmania then melville island near the northern territory .",
+  "label": "1"
+ },
+ {
+  "id": 130,
+  "sentence1": "they have a desire to be vindicated . '",
+  "sentence2": "smith was the first person to be charged under operation yewtree",
+  "label": "1"
+ },
+ {
+  "id": 131,
+  "sentence1": "he said his complication rate was ` within national standards ' .",
+  "sentence2": "last night mr irvine denied any wrongdoing and said his supporters claimed he was the victim of a ` witchhunt ' .",
+  "label": "0"
+ },
+ {
+  "id": 132,
+  "sentence1": "still , mata and young will not be complacent as united look to end give themselves the perfect early christmas gift with a win over liverpool .",
+  "sentence2": "juan mata ( right ) shields the ball from southampton 's dusan tadic at st mary 's",
+  "label": "1"
+ },
+ {
+  "id": 133,
+  "sentence1": "missing : michelle knight , now 32 , was also found inside the home , nearly 11 years after she went missing",
+  "sentence2": "their comments came as castro , 52 , was formally charged with four",
+  "label": "1"
+ },
+ {
+  "id": 134,
+  "sentence1": "if it really was independent it would avoid doing things that were provocative . '",
+  "sentence2": "it is inevitably going to be accused of political bias .",
+  "label": "0"
+ },
+ {
+  "id": 135,
+  "sentence1": "at 80 years old , author joan didion was announced as the new face of c\u00e9line for ss15 and is the subject of a new photography show - and she is not the first older woman to have been chosen by big brands .",
+  "sentence2": "but now it seems that fashion and cosmetics companies in particular are moving towards a somewhat older group of models .",
+  "label": "0"
+ },
+ {
+  "id": 136,
+  "sentence1": "the player , who was once paid # 5,000-a-week to play for newcastle united , was arrested on suspicion of rape last year but was cleared of the charges in march .",
+  "sentence2": "ranger represented england at under-19 level on 11 occasions , scoring six goals",
+  "label": "1"
+ },
+ {
+  "id": 137,
+  "sentence1": "there are two schools of thought on what selig may do with a-rod .",
+  "sentence2": "one has him using the ` best interest of the game ' power afforded him as commissioner to ban the suspected cheater for life .",
+  "label": "1"
+ },
+ {
+  "id": 138,
+  "sentence1": "diego costa did n't deserve to be dismissed on saturday and kevin friend called both incidents involving the combative centre forward correctly .",
+  "sentence2": "in the first , costa over-reacted to a strong challenge from john o'shea , pushing his legs and boots out towards the sunderland centre half .",
+  "label": "1"
+ },
+ {
+  "id": 139,
+  "sentence1": "price hikes : despite gas and electricity wholesale and operating costs remaining almost unchanged since autumn 2012 , the big six companies have pushed through price hikes of up to 10 %",
+  "sentence2": "ofgem added : ` it has been concluded that no evidence of the alleged market manipulation could be found and therefore that the interests of consumers have not been harmed .",
+  "label": "1"
+ },
+ {
+  "id": 140,
+  "sentence1": "` then suddenly they moved him sideways and did something completely different .",
+  "sentence2": "that may have had an effect .",
+  "label": "1"
+ },
+ {
+  "id": 141,
+  "sentence1": "\" all it says is , you got ta pay for what congress already said we 're spending money on , \" obama said , adding that \" if you do n't do it , we could have another financial crisis . \"",
+  "sentence2": "tea party conservatives who have pledged to fight implementation of obamacare consider the current budget debate their last major chance to undermine it , because the brunt of the new system takes effect with the start of fiscal year 2014 on october 1 .",
+  "label": "1"
+ },
+ {
+  "id": 142,
+  "sentence1": "` thank u all for your concern & good wishes , ' he wrote on twitter .",
+  "sentence2": "` all well the morning after the accident .",
+  "label": "1"
+ },
+ {
+  "id": 143,
+  "sentence1": "in iraq , mistakes could get someone killed .",
+  "sentence2": "mistakes ca n't be made , he angrily warned her .",
+  "label": "0"
+ },
+ {
+  "id": 144,
+  "sentence1": "` it was fantastic that he played through [ until half-time ] but i had to change him and also luke shaw has an ankle problem so i had to change him also . '",
+  "sentence2": "you noticed that rafa da silva has an injury , a fissure of his bone .",
+  "label": "0"
+ },
+ {
+  "id": 145,
+  "sentence1": "although she has a few gadgets she ca n't live without such as a food processor and blender , ' i have one frying pan , it 's all very basic ' .",
+  "sentence2": "eat drink paleo was originally self-published as an e-book but with a little help from crowd-funding meant she could produce a higher quality end product .",
+  "label": "1"
+ },
+ {
+  "id": 146,
+  "sentence1": "cnn : previously , you 've mentioned \" adapt and overcome . \"",
+  "sentence2": "this is a humanitarian matter of global proportions .",
+  "label": "0"
+ },
+ {
+  "id": 147,
+  "sentence1": "philip hover told the hour he was looking forward to his son joining",
+  "sentence2": "definitely believe that he is a good role model and a good person , ' she",
+  "label": "0"
+ },
+ {
+  "id": 148,
+  "sentence1": "` even if i were desperate for money , i would not have kept even a penny , ' he said .",
+  "sentence2": "james , who said he once worked as a boston courthouse employee , found the backpack at the south bay mall in the city 's dorchester neighborhood saturday evening .",
+  "label": "1"
+ },
+ {
+  "id": 149,
+  "sentence1": "between the day of taping and november 5 , sparks was transferred to cedars sinai hospital in los angeles , california .",
+  "sentence2": "the endemol spokesperson said the company requires all participants to undergo a full physical screening , but it 's highly unlikely that sparks ' disease -- antiphospholipid antibody syndrome , or aps -- could have been detected , and sparks did not list it as a pre-existing condition .",
+  "label": "1"
+ },
+ {
+  "id": 150,
+  "sentence1": "authorities charged menendez with murder as a hate",
+  "sentence2": "into the 7 train 's path .",
+  "label": "0"
+ },
+ {
+  "id": 151,
+  "sentence1": "plans in case of bad weather and flooding over new year . '",
+  "sentence2": "the dept for communities & local govt to ensure councils have robust",
+  "label": "0"
+ },
+ {
+  "id": 152,
+  "sentence1": "\" therefore , they can not be disputed ... as long as the u.s. nuclear threat and hostile policy persist . \"",
+  "sentence2": "the stern statement marked the latest in the war of words , and more , pitting north korea against the united states and , in fact , many other countries worldwide .",
+  "label": "1"
+ },
+ {
+  "id": 153,
+  "sentence1": "the undercard will feature a 12-round ibf lightweight title bout between mercito gesta of the philippines and mexican miguel vazquez , but the main bout is a non-title clash .",
+  "sentence2": "but his words were drowned out by the mexican supporters for marquez , who is 54-6-1 with 39 kos in his lengthy career .",
+  "label": "0"
+ },
+ {
+  "id": 154,
+  "sentence1": "there is no evidence that wearing compression stockings prevents the development of dvt , says a leading expert",
+  "sentence2": "found outside at 6,000 to 8,000 ft.",
+  "label": "0"
+ },
+ {
+  "id": 155,
+  "sentence1": "since ms louder vanished from her home , her sister madi rodriguez , has been hanging up hundreds of missing person posters in a bid to locate her , .",
+  "sentence2": "` she 's been in and out of jobs for the last year , so it 's been a little tough for her , ' he said .",
+  "label": "0"
+ },
+ {
+  "id": 156,
+  "sentence1": "laura knowles claims she was hospitalised after drinking the ` mercury laced tea '",
+  "sentence2": "both had come to me with separate issues . '",
+  "label": "0"
+ },
+ {
+  "id": 157,
+  "sentence1": "social democrat candidate peer steinbrueck , the only candidate offering a strong challenge to merkel 's position as chancellor was on the cover of a nationwide magazine gesturing with his middle finger just two weeks before the election .",
+  "sentence2": "personal exposure still comes in the right doses and flaws are accepted .",
+  "label": "0"
+ },
+ {
+  "id": 158,
+  "sentence1": "i said ; ` look , i want to personally apologize to you if you are offended by being brought into my situation .",
+  "sentence2": "i want to take this moment to just pour myself , be open , say i 'm very sorry for this whole situation ' . \"",
+  "label": "1"
+ },
+ {
+  "id": 159,
+  "sentence1": "the australian open champion will play either rafael nadal or roger federer , who were playing in the night session , in sunday 's final .",
+  "sentence2": "the serbian beat world number one nadal to claim the prestigious indian wells crown last month .",
+  "label": "1"
+ },
+ {
+  "id": 160,
+  "sentence1": "god save the queen - sex pistols ( 1977 )",
+  "sentence2": "two tribes - frankie goes to hollywood ( 1984 )",
+  "label": "1"
+ },
+ {
+  "id": 161,
+  "sentence1": "` watching him suffer has broken me '",
+  "sentence2": "leslie martella has crossed the country trying to find relief for her 16-year-old son , garrett buckelew .",
+  "label": "1"
+ },
+ {
+  "id": 162,
+  "sentence1": "santo domingo , dominican republic ( cnn ) -- trapped beneath his collapsed home in port-au-prince , rescuers had to amputate georges exantus ' right leg in order to free him .",
+  "sentence2": "he was one of the survivors from haiti 's january 12 earthquake that killed more than 200,000 people .",
+  "label": "1"
+ },
+ {
+  "id": 163,
+  "sentence1": "a few years after he was licensed in oregon in 1989 , his employer required him to obtain a second opinion for certain procedures , and state regulators prevented him from performing some kinds of surgery in 2000 , the complaint stated .",
+  "sentence2": "patel arrived in bundaberg , sugar industry center , in early 2003 .",
+  "label": "1"
+ },
+ {
+  "id": 164,
+  "sentence1": "the duke , a formidable shot , was told to give up shooting after a heart scare in december 2011 because doctors feared the recoil could dislodge a stent fitted to unblock a coronary artery .",
+  "sentence2": "prince philip was said to have accepted their advice reluctantly in the hope that it was on a temporary basis .",
+  "label": "1"
+ },
+ {
+  "id": 165,
+  "sentence1": "\" crayfish heads will have some meat in there for protein .",
+  "sentence2": "crayfish skeletons will have calcium and i 'm sure there is a nutritional value but perhaps [ feeding crayfish to chickens ] is a leap too far for now , \" humphries says .",
+  "label": "1"
+ },
+ {
+  "id": 166,
+  "sentence1": "senator kevin de leon , of los angeles , said his bill would begin a paradigm shift in how california campuses prevent and investigate sexual assault .",
+  "sentence2": "the bill now goes to governor jerry brown , who has not indicated his stance on the bill .",
+  "label": "0"
+ },
+ {
+  "id": 167,
+  "sentence1": "in addition to episodic content , youtube is also considering charging for content libraries and access to live events , a la pay-per-view , as well as self-help or financial advice shows .",
+  "sentence2": "the company has held talks with several video producers , asking them to submit applications to create for-pay specialist channels , according to adage .",
+  "label": "0"
+ },
+ {
+  "id": 168,
+  "sentence1": "she claims that , when she complained to her boss in may 2008 , she was suspended .",
+  "sentence2": "now she is asking mr justice owen at the high court in london to award her damages ` in the low millions ' against the law firm , claiming they bungled her sex discrimination claim .",
+  "label": "1"
+ },
+ {
+  "id": 169,
+  "sentence1": "twenty nigerians are listed in total",
+  "sentence2": "richest african : the overall richest african is nigerian manufacturer aliko dangote , pictured , who is worth $ 20.2 billion .",
+  "label": "0"
+ },
+ {
+  "id": 170,
+  "sentence1": "paedophiles will be equipped with gps ankle tags so police can track their whereabouts after they have served their prison sentence .",
+  "sentence2": "convicted child abusers will be forced to wear tracking devices upon their release , justice secretary chris grayling has promised .",
+  "label": "0"
+ },
+ {
+  "id": 171,
+  "sentence1": "the new boys bring some more quality to the team and they have settled in really well .",
+  "sentence2": "` alexis sanchez had a great world cup with chile and they are all fantastic signings .",
+  "label": "0"
+ },
+ {
+  "id": 172,
+  "sentence1": "it is not difficult to see why women are willing to splash out to try and emulate the northern beauty 's look",
+  "sentence2": "cheryl often changes her look , shifting from brunette to blonde and back again , but always keeps up her high glamour finish",
+  "label": "1"
+ },
+ {
+  "id": 173,
+  "sentence1": "he just found them quite funny and he wanted to put them on his twitter and share them with his friends and followers , ' the spokesperson said",
+  "sentence2": "` mr danby has a very keen and quirky sense of humour .",
+  "label": "0"
+ },
+ {
+  "id": 174,
+  "sentence1": "a group of sailors on a us navy carrier watch in awe as the jet puts on a show and flies right by the vessel .",
+  "sentence2": "the phenomenon -- which appears as a tail of air behind a fast-flying jet -- occurs when pilots break the speed of sound .",
+  "label": "1"
+ },
+ {
+  "id": 175,
+  "sentence1": "about 80 percent of crops in gaza were destroyed , according to the agency .",
+  "sentence2": "\" the pervasive sense here among the population is one of overwhelming grief , so many families have been destroyed in so many ways , \" said john ging , the top united nations official in gaza .",
+  "label": "1"
+ },
+ {
+  "id": 176,
+  "sentence1": "living up to their name : three reinwardt 's flying frogs , commonly known as the black webbed tree frog or the green flying frog , were spotted playing in a tree by photographer hendy mp",
+  "sentence2": "say cheese : the trio , pictured in kalimantan barat , in indonesia , were happy to pose for the camera , with one offering up a big grin",
+  "label": "1"
+ },
+ {
+  "id": 177,
+  "sentence1": "\" we trained hard for this event and spoke beforehand of about what we had to do , and what to avoid , \" he added .",
+  "sentence2": "hushovd , who has worn the yellow jersey three times previously , told reporters : \" it was a big dream of mine to pull on the yellow jersey as world champion , so you can imagine how happy i feel .",
+  "label": "0"
+ },
+ {
+  "id": 178,
+  "sentence1": "mr farage seemed particularly amused by a washbag in a benfleet as he campaigned ahead of the electon",
+  "sentence2": "mr farage boasted that he had lost weight and could now get into old suits after giving up alcohol for dry january , but that did n't stop him tucking into ukip-branded popcorn",
+  "label": "0"
+ },
+ {
+  "id": 179,
+  "sentence1": "parties have good reasons to avoid reaching back to politicians of prior generations .",
+  "sentence2": "when they do , they bring forward not only the ideas of the past , but also the personalities and the quarrels of the past .",
+  "label": "1"
+ },
+ {
+  "id": 180,
+  "sentence1": "wajih will continue to live at his",
+  "sentence2": "home , which is just four miles from the university campus , with his mum",
+  "label": "1"
+ },
+ {
+  "id": 181,
+  "sentence1": "inflated : ross mccormack 's # 11million move to fulham has pushed up prices beyond burnley 's limited means",
+  "sentence2": "` the club made it quite clear there are guidelines i have to work in and that 's part of my role , ' he said .",
+  "label": "1"
+ },
+ {
+  "id": 182,
+  "sentence1": "while we found that amusing , candice was clearly embarrassed .",
+  "sentence2": "minutes later , he was amorously kissing candice .",
+  "label": "0"
+ },
+ {
+  "id": 183,
+  "sentence1": "the passengers on board that ship -- including scientists , journalists and tourists -- were eventually airlifted onto another ship that took them to an australian port .",
+  "sentence2": "in december , a russian-flagged research vessel , the mv akadmik shokalskiy , made international headlines when it got trapped in unusually deep ice near antarctica .",
+  "label": "0"
+ },
+ {
+  "id": 184,
+  "sentence1": "the joker was the villain in a previous film in the series and also appears in the comic book series that inspired the films .",
+  "sentence2": "police officials said they took the threats seriously and were sensitive to the use of the word ` joker ' in the aftermath of the july 20 mass shooting at an aurora , colorado , movie complex showing the latest batman movie , \" the dark knight rises . \"",
+  "label": "0"
+ },
+ {
+  "id": 185,
+  "sentence1": "it has been nicknamed ` liquid gold ' -- and so it has proved for unscrupulous sellers , who package ordinary honeys as ` manuka ' and sell them for # 30 a jar .",
+  "sentence2": "official figures , published in the grocer magazine , show that only 1,700 tons of manuka are produced annually , while around 10,000 tons are sold .",
+  "label": "1"
+ },
+ {
+  "id": 186,
+  "sentence1": "hamza , 56 , has denied all the allegations .",
+  "sentence2": "mrs thompson at times appeared emotional as she gave evidence and told how the trip to yemen was supposed to be a two-week adventure of a lifetime .",
+  "label": "1"
+ },
+ {
+  "id": 187,
+  "sentence1": "planning ahead : mr wright took this 1968 photo of flooding where he later built his house .",
+  "sentence2": "home sweet home : ed wright looks around at the re-construction efforts from his house , which was largely undamaged by the storm",
+  "label": "0"
+ },
+ {
+  "id": 188,
+  "sentence1": "with the website she wanted to give survivors a place to connect .",
+  "sentence2": "by filming her story the message could go much broader .",
+  "label": "1"
+ },
+ {
+  "id": 189,
+  "sentence1": "north yorkshire police said the road was closed after the incident created unsafe driving conditions .",
+  "sentence2": "a spokesman said : ` instant mash is covering the road and cars have skidded as a result of the mash swelling up . '",
+  "label": "1"
+ },
+ {
+  "id": 190,
+  "sentence1": "the last scheduled launch of space shuttle endeavour is set for april 19 .",
+  "sentence2": "\" it 's such a wonderful vehicle . \"",
+  "label": "0"
+ },
+ {
+  "id": 191,
+  "sentence1": "nasa released a photo captured by a moderate resolution imaging spectroradiometer ( modis ) on their terra satellite on only the second day of the ongoing disaster , which shows thick smoke billowing out across the fire 's path .",
+  "sentence2": "meanwhile , geoscience australia also shared a satellite image , captured on january 4 , which showed both the active fire front at the time and what they dubbed as the ` fire scar ' that the inferno left across the adelaide hills .",
+  "label": "1"
+ },
+ {
+  "id": 192,
+  "sentence1": "last the weekend , south korean president park geun-hye visited the port where the rescue operation is based to console families and encourage divers .",
+  "sentence2": "it has been reported that mattresses and clothing from the ship have been found up to nine miles away from the accident site .",
+  "label": "1"
+ },
+ {
+  "id": 193,
+  "sentence1": "quite a few cricketers have it , including graham gooch and david gower .",
+  "sentence2": "undoubtedly , playing cricket ( i played county cricket for leicestershire from 1979 to 1990 and have three england caps ) has played a major part in my getting dupuytren 's , owing to the repeated thumps of the ball into my hands .",
+  "label": "0"
+ },
+ {
+  "id": 194,
+  "sentence1": "but the agency said it would need $ 9 million to continue to provide aid through june .",
+  "sentence2": "the u.n. world food programme announced that it would increase its assistance to more than 110,000 people , over the next few months .",
+  "label": "0"
+ },
+ {
+  "id": 195,
+  "sentence1": "` we 're just going to have to go 24/7 , triple shifts , to push forward and make sure we have this place ready for sunday , ' vice president of operations and guest experience andy major major added .",
+  "sentence2": "` we ca n't have too many people helping , so there 's no cutoff .",
+  "label": "1"
+ },
+ {
+  "id": 196,
+  "sentence1": "` filthy , dirty rotten stinking hovel run by muppets ! '",
+  "sentence2": "begins a detailed critique by tony jenkinson , of whitehaven in cumbria , who concludes : ` stay away !!!! '",
+  "label": "1"
+ },
+ {
+  "id": 197,
+  "sentence1": "kevin-prince boateng of a.c. milan walked off in protest when he was racially abused during a friendly in january , and greece 's football federation banned aek athens ' giorgos katidis for five games in april and fined him for a nazi-style goal celebration .",
+  "sentence2": "\" i am speaking of the politics of hate -- racism , ignorance , discrimination , intolerance , small-minded prejudice , that uncivilized , immoral and self-destructive force that we all detest . \"",
+  "label": "0"
+ },
+ {
+  "id": 198,
+  "sentence1": "despite searing heat , nadal never allowed gasquet time to get into their match , with the 10-time grand slam winner telling reporters he was delighted with his performance , considering he felt tired .",
+  "sentence2": "the new musketeers : france 's fantastic four bid for davis cup glory",
+  "label": "0"
+ },
+ {
+  "id": 199,
+  "sentence1": "mr palacios regained consciousness around 6am when he wandered into a backyard .",
+  "sentence2": "another resident george bolger : ` it 's not uncommon to find people drunk under cars rolled for their money . '",
+  "label": "0"
+ }
+]
